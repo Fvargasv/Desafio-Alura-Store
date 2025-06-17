@@ -6,9 +6,9 @@ A través del análisis de datos de ventas, rendimiento y reseñas de clientes, 
 
 ---
 
-## 🧠 Lo que aprenderás
+## 🧠 Lo que aprenderé en este desafío
 
-Durante este proyecto pondrás en práctica habilidades clave en análisis de datos:
+Durante este proyecto pondré en práctica habilidades clave en análisis de datos:
 
 - Cargar y manipular datos en formato CSV usando **Pandas**.
 - Crear visualizaciones con **Matplotlib** para representar la información de forma clara.
@@ -34,11 +34,11 @@ Explorar y analizar la información disponible para cada tienda:
 
 ### 2. Visualización de resultados
 
-Crear al menos **3 tipos diferentes de gráficos** para facilitar la interpretación:
+Crear al menos **3 tipos diferentes de gráficos** para facilitar la interpretación, para el proyecto se utilizaron los siguientes tipos de gráficos:
 - Gráfico de barras
-- Gráfico circular (torta)
+- Gráfico de línea
 - Gráfico de dispersión
-- (u otros según se considere útil)
+
 
 ### 3. Recomendación final
 
@@ -54,10 +54,17 @@ Al final del análisis, redactar una recomendación justificada:
 - Python 🐍
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
+- GitHub
+
 
 ---
 
-## 📁 Estructura del repositorio
+## 💡 Autor y créditos
+
+Proyecto de práctica para aprendizaje de análisis de datos.  
+Inspirado en desafíos educativos de **Alura**.
+Hecho por Felipe Vargas
+
 
 
