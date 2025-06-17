@@ -48,6 +48,12 @@ Al final del análisis, redactar una recomendación justificada:
 > ¿Qué dicen los datos?
 
 ---
+## 💾 Archivos del proyecto
+
+- Base de datos de las 4 tiendas
+- Cuaderno de colab con el desarrollo del proyecto
+- README.md
+
 
 ## 🛠 Tecnologías utilizadas
 
